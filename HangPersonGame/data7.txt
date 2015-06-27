@@ -1,0 +1,7 @@
+elephant
+meerkat
+chicken
+leopard
+dolphin
+grizzly
+panther
